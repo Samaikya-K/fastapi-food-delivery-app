@@ -1,4 +1,6 @@
-FastAPI Food Delivery App
+#FastAPI Food Delivery App
+
+
 A backend project built using FastAPI for a Food Delivery App.
 
 Features
