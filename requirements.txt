@@ -1,0 +1,4 @@
+1.python
+2. Fast API
+3.uvicorn
+4.Pydantic
